@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFrameworks>MonoAndroid81</TargetFrameworks>
-    <AssemblyName>FR.Ganfra.Materialspinner</AssemblyName>
-    <RootNamespace>Fra.Ganfra.MaterialSpinner</RootNamespace>
+    <AssemblyName>Fr.Ganfra.MaterialSpinner</AssemblyName>
+    <RootNamespace>Fr.Ganfra.MaterialSpinner</RootNamespace>
     <Description>Binding library of https://github.com/wdullaer/MaterialDateTimePicker</Description>
     <PackageId>Nivaes.Droid.Ganfra.MaterialSpinner</PackageId>
     <PackageTags>xamarin;android;monodroid;MaterialSpinner;Spinner</PackageTags>

@@ -3,7 +3,7 @@ using Android.OS;
 using Android.Support.V7.App;
 using Android.Views;
 using Android.Widget;
-using FR.Ganfra.Materialspinner;
+using Fr.Ganfra.MaterialSpinner;
 using Java.Interop;
 
 namespace Nivaes.Materialspinner.Droid
