@@ -37,7 +37,7 @@
   </ItemGroup>
  
   <ItemGroup>
-    <PackageReference Include="MSBuild.Sdk.Extras" Version="3.0.23" />
+    <PackageReference Include="MSBuild.Sdk.Extras" Version="3.0.38" />
     <PackageReference Include="Xamarin.Android.Support.v7.AppCompat" Version="27.0.2" />
     <PackageReference Include="Xamarin.Android.Support.v7.RecyclerView" Version="27.0.2" />
   </ItemGroup>
